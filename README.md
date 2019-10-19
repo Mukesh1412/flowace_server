@@ -2,7 +2,7 @@
 # flowace_server
 
 #install packages
-npm install
+##npm install
 
 #run
-npm start
+##npm start
