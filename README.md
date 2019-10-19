@@ -1,8 +1,8 @@
 
 # flowace_server
 
-#install packages
-##npm install
+# install packages
+## npm install
 
-#run
-##npm start
+# run
+## npm start
